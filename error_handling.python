@@ -1,0 +1,83 @@
+# try:
+#     print(shn)
+# except:
+#     print(" print(shn) is name error")    
+
+# try:
+#    print("shn")
+# except:
+#     print("name error") 
+
+# try:
+#    print("6")
+#    print(shn)
+# except NameError:
+#     print("print(shn) is name error")
+
+# try:
+#    print("6")
+#    print(shn)
+# except SyntaxError:
+#     print("name error") 
+
+# try:
+#    print("6")
+#    print(shn)
+# except SyntaxError:
+#     print("name error")
+# except NameError:
+#     print("print(shn) is name error") 
+
+
+# try:
+#     print(shn)
+#     print("hello")
+# except:
+#     print(" print(shn) is name error") 
+
+# try:
+#     print("hello")
+#     print(shn)
+# except:
+#     print("print(shn) is name error")
+ 
+# try:
+#    print("6")
+# except SyntaxError:
+#     print("name error") 
+# finally:
+#     print('hi')
+
+# try:
+#    print("6")
+#    print(shn)
+# except NameError:
+#     print("shn is name error") 
+# finally:
+#     print('hi')
+
+
+# try:
+#    print("6")
+#    print(shn)
+# except NameError:
+#     print("shn is name error") 
+# finally:
+#     print('hi')
+
+
+# try:
+#    print("6")
+#    print(shn)
+# except NameError:
+#     print("shn is name error") 
+# else:
+#     print('hi')
+
+# try:
+#    print("6")
+#    print("shn")
+# except SyntaxError:
+#     print("shn is name error") 
+# else:
+#     print('hi')
